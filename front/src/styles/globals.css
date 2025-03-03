@@ -1,0 +1,62 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+    --background: #F8F9FA;
+    --foreground: #171717;
+    --salmon: #f16c5e;
+    --salmon-300: #f7b7b0;
+}
+
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.5;
+}
+
+/* styles/globals.css */
+
+/* Reset básico */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* Elimina estilos predeterminados de listas */
+ul,
+ol {
+  list-style: none;
+  padding: 0;
+}
+
+/* Remueve estilos predeterminados de enlaces */
+a {
+  text-decoration: none;
+  color: inherit;
+}
+
+/* Corrige imágenes */
+img {
+  max-width: 100%;
+  height: auto;
+  display: block;
+}
+
+/* Botones más consistentes */
+button {
+  all: unset;
+  cursor: pointer;
+}
+
+/* Ajuste de formularios */
+input,
+textarea,
+button,
+select {
+  font: inherit;
+}

@@ -23,8 +23,7 @@ Características principales:
 APP:  
 
 Página principal
-
-Imagen atractiva al ingresar a la app, con un botón que dirige a la página de inicio.
+- Imagen atractiva al ingresar a la app, con un botón que dirige a la página de inicio.
 
 ![{7FF56BF2-D745-440F-809A-C05B255D4097}](https://github.com/user-attachments/assets/36d75959-eead-4974-8dda-827614b4513c)
 
